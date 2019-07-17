@@ -4,11 +4,12 @@ AutoAuto builds hand-held self-driving cars to engages students in programming. 
 
 
 There are many articles that describe the benefits of teaching computer science, and the such, in public schools. One such article is written here:
+
 https://medium.com/edmodoblog/more-than-coding-what-students-really-learn-from-computer-science-3d6870387fbc
 
- Other companies who are trying to teach programming in K-12 schools are... 
+ Other companies who are teaching computer science and programming in K-12 schools are CollegeBoard<sup>1</sup>, MIT<sup>2</sup>, and Project Lead The Way (PLTW)<sup>3</sup>. 
  
- The approach for AutoAuto is different because...
+ The approach for AutoAuto is different because unlike CollegeBoard, they are aimed at reaching all demographics who might not otherwise have access to college level coursework or topics. The curriculum and approach is also designed so that students have immediate success and interaction with a real-world problem. With MIT's App Inventor, students aren't using any Python or coding languages to interact with the program. 
 
 
 With my results, I can inform AutoAuto of trends and solutions such as: lessons that students often fail, different tracks for students who fail multiple lessons, the variance of time to complete assessments earlier in the program versus later, and/or design a lesson flow that changes as student complete activities. This will lead to a better understanding for students which can increase teachers and schools using AutoAuto and their Learning Platform.
@@ -21,4 +22,10 @@ Problems that might occur with the project is having missing or misleading data.
 Another gap in the data is that sometimes students would only use one person's account since they worked in pairs. To mitigate this problem, I will consider looking at group trends instead of individual trends since there may be gaps between individual student activity. 
 
 My next steps are to meet with Ryan the CTO of AutoAuto to have him explain how the data is represented. Once I am able to understand how he organized and collected the data I will begin the EDA process, and then conduct statistical tests. I also hope to do some unsupervised learning with the data to find underlying clusters or patterns with the content. 
+
+
+# Reference
+1. https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course
+2. http://appinventor.mit.edu/explore/about-us.html
+3. https://www.pltw.org/our-programs/pltw-computer-science-curriculum
 
